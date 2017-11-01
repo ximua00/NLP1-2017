@@ -35,3 +35,5 @@ For the projects, you will need:
 * [PyTorch](http://pytorch.org/)
 
 More info about the PyTorch tutorial will follow.
+
+By K.P.
